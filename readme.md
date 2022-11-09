@@ -39,9 +39,9 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 ## Important Dates
 
 
-* Paper submission due: 31/12/2022
-* Notification of Acceptance: 20/03/2023
-* Camera-Ready Papers Due: 28/03/2023
+* Paper submission due: 15/01/2023
+* Notification of Acceptance: 17/02/2023
+* Camera-Ready Papers Due: 24/02/2023
 * Workshop date: 17/04/2023
 
 
