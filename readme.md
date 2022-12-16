@@ -61,6 +61,7 @@ Authors are invited to submit electronically original, English-language research
 * Jin Chen, University of Electronic Science and Technology of China
 * Junhua Fang, Soochow University
 * Kai Huang, Hong Kong University of Science and Technology
+* Minbo Ma, Southwest Jiaotong University
 * Hao Miao, Aalborg University
 * Shuncheng Liu, University of Electronic Science and Technology of China
 * Yue Cui, Hong Kong University of Science and Technology
