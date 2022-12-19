@@ -60,6 +60,7 @@ Authors are invited to submit electronically original, English-language research
 * Dalin Zhang, Aalborg University
 * Jin Chen, University of Electronic Science and Technology of China
 * Junhua Fang, Soochow University
+* Liwei Deng, University of Electronic Science and Technology of China
 * Kai Huang, Hong Kong University of Science and Technology
 * Minbo Ma, Southwest Jiaotong University
 * Hao Miao, Aalborg University
