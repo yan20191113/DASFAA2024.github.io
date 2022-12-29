@@ -67,3 +67,4 @@ Authors are invited to submit electronically original, English-language research
 * Shuncheng Liu, University of Electronic Science and Technology of China
 * Yue Cui, Hong Kong University of Science and Technology
 
+## All submissions should be sent to yanz@cs.aau.dk before the deadline.
