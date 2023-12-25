@@ -67,6 +67,7 @@ Authors are invited to submit electronically original, English-language research
 * Minbo Ma, Southwest Jiaotong University
 * Hao Miao, Aalborg University
 * Shuncheng Liu, University of Electronic Science and Technology of China
+* Weizhu Qian, Soochow University
 * Yue Cui, Hong Kong University of Science and Technology
 
 ## All submissions should be sent to yanz@cs.aau.dk before the deadline.
