@@ -3,11 +3,11 @@
  </div>
 
  <div align='center' style = "vertical-align:middle"> 
-  <h2> <a href="http://www.tjudb.cn/dasfaa2023/"> DASFAA 2023 </a><a href="http://www.tjudb.cn/dasfaa2023/">(http://www.tjudb.cn/dasfaa2023/)</a> </h2>
+  <h2> <a href="https://www.dasfaa2024.org/"> DASFAA 2024 </a><a href="https://www.dasfaa2024.org/">(https://www.dasfaa2024.org/)</a> </h2>
  </div>
  
 ## Workshop:
-**The 9th International Workshop on Big Data Management and Service**
+**The 10th International Workshop on Big Data Management and Service**
 
 
 ## Abstract:
@@ -28,28 +28,30 @@ This workshop welcomes different kinds of papers that emphasize theoretical foun
 * Big Data Applications (Internet of Things, Social Networks, etc.)
 * Security, Trust, and Privacy Issues in Big Data Sharing
 * Delivery, Deployment, and Maintenance of Big Data as a Service (BDaaS)
+* Vector Database
+* Foundation Models
 
 ## Organizing Team
 
+* Dr. Yan Zhao, Aalborg University, Denmark
 * Prof. Xiaoling Wang, East China Normal University, China 
 * Prof. Kai Zheng, University of Electronic Science and Technology of China 
-* Dr. Yan Zhao, Aalborg University, Denmark 
 
 
 ## Important Dates
 
 
-* Paper submission due: 15/01/2023
-* Notification of Acceptance: 17/02/2023
-* Camera-Ready Papers Due: 24/02/2023
-* Workshop date: 17/04/2023
+* Paper submission due: 15/04/2024
+* Notification of Acceptance: 17/05/2024
+* Camera-Ready Papers Due: 24/05/2024
+* Workshop date: 02/07/2024
 
 
 ## Publication
 
 DASFAA (Database Systems for Advanced Applications) is an annual international database conference, typically located in the Asia Pacific region, aimed at showcasing the state-of-the-art and the broad range of activities in database-related research and development. It provides a forum for technical presentations and discussions among database researchers, developers and users from academia, business and industry.
 
-The 28th DASFAA conference will be held from 17-20 April 2023 in Tianjin, China.
+The 29th DASFAA conference will be held from 2-5 July 2024 in Gifu, Japan.
 
 Authors are invited to submit electronically original, English-language research contributions not concurrently submitted elsewhere. Accepted papers will be published by Springer as proceedings in Lecture Notes in Computer Science (LNCS). All submitted papers should be Springer LNCS camera-ready format. The style files are available from Springer LNCS site. All submissions files should be in PDF formats. The length of the paper could be 10 to 15 pages. The number of pages should not exceed 15 pages. Any paper more than 15 pages will be rejected.
 
