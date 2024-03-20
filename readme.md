@@ -58,8 +58,7 @@ Authors are invited to submit electronically original, English-language research
 
 ## Program Committee
 
-* Chi Zhang, Brandeis University
-* Dalin Zhang, Aalborg University
+* Dazhuo Qiu, Aalborg University
 * Jin Chen, University of Electronic Science and Technology of China
 * Junhua Fang, Soochow University
 * Liwei Deng, University of Electronic Science and Technology of China
