@@ -70,4 +70,4 @@ Authors are invited to submit electronically original, English-language research
 * Weizhu Qian, Soochow University
 * Yue Cui, Hong Kong University of Science and Technology
 
-## All submissions should be sent to yanz@cs.aau.dk before the deadline.
+## All submissions should be handled electronically, in PDF format (LNCS style), through https://cmt3.research.microsoft.com/DASFAA2024 before the deadline (see https://www.dasfaa2024.org/call-for-workshop-proposals/).
